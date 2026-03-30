@@ -17,7 +17,7 @@ people's lives.
 
 ## Featured Projects
 
-**[Intelligent Data Extractor](https://github.com/HectorCorbellini/portfolio-ai-extractor)**  
+**[Intelligent Data Extractor](https://github.com/HectorCorbellini/ai-logistics-automation-hub)**  
 Converts unstructured documents (invoices, receipts, transcripts) into 
 structured JSON using LLM APIs. Spring Boot · Hexagonal Architecture · 
 OpenAI/Gemini/Groq
@@ -26,7 +26,7 @@ OpenAI/Gemini/Groq
 Zero Trust maritime identity validation protocol for artisanal fishing 
 vessels. Java · Cryptographic challenge-response · GPS attestation
 
-**[NODO NUEVA TROYA](https://github.com/HectorCorbellini/nodo-nueva-troya)**  
+**[NODO NUEVA TROYA](https://github.com/HectorCorbellini/nodoTroya)**  
 Community marketplace platform. Vanilla JS · Vite · Supabase · Netlify
 
 ---
