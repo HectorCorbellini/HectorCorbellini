@@ -5,6 +5,8 @@ I build backend systems that solve real problems — document processing,
 identity validation, community platforms — using Java, Spring Boot, and 
 LLM integrations. I work with AI tools to deliver fast without cutting 
 corners on architecture.
+- **Principal Language**: Java (with Spring Boot)
+- **Additional Languages**: Python, C, Rust, and others (significant experience building efficient applications)
 
 My background is unusual: Linux systems administration since the 90s, 
 a return to serious development in 2024, and a strong interest in 
